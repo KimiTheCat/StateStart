@@ -3,3 +3,5 @@ ToDos - Vla
 Доколото разбрам идеята за web-частта е да имаме система за съвместна разработка. Ако самата информация лежи на GIT, то може би ще е добре да имаме някъв по-удобен интерфейс, чрез който да работим с нея
 
 Interface should be wiki, storing materials in GIT repository
+
+Test tools (temp)
